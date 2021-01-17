@@ -1,4 +1,4 @@
-# python-style-motto
+# python-style-logion
 Python“翻译”名人名言系列
 
 受到阿里的文案的启发，尝试把一些名人名言用Python语言的形式展示出来，不定期更新。
